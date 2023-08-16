@@ -1,28 +1,4 @@
-Skip to content
-Search
-Top Products Lists
-AI
-Developer
-Payroll
-Security
-Project Management
-TechRepublic Academy
-Innovation
-Cheat Sheets
-Big Data
-Tech Jobs
-More
-Sponsored
-Newsletters
-Forums
-Resource Library
-Join / Sign In
-ChatGPT Cheat Sheet: Complete Guide for 2023
-Image of Megan Crouse
-by Megan Crouse in Artificial Intelligence 
-on August 8, 2023, 11:50 AM EDT
-Get up and running with ChatGPT with this comprehensive cheat sheet. Learn everything from how to sign up for free to enterprise use cases, and start using ChatGPT quickly and effectively.
-
+------
 someone using ChatGPT on a laptop
 Image: irissca/Adobe Stock
 ChatGPT reached 100 million monthly users in January, according to a UBS report, making it the fastest-growing consumer app in history. The business world is interested in ChatGPT too, trying to find uses for the writing AI throughout many different industries. This cheat sheet includes answers to the most common questions about ChatGPT and its competitors.
@@ -51,6 +27,7 @@ SEE: OpenAI’s probability assessments were trained on Microsoft’s Azure AI s
 
 Several organizations have built this ability to answer questions into some of their software features too. Microsoft, which provides funding for OpenAI, rolled out ChatGPT in Bing search as a preview. Salesforce has added ChatGPT to some of its CRM platforms in the form of the Einstein digital assistant.
 
+------
 Who made ChatGPT?
 ChatGPT was built by OpenAI, a research laboratory with both nonprofit and for-profit branches. At the time of its founding in 2015, OpenAI received funding from Amazon Web Services, InfoSys and YC Research and investors including Elon Musk and Peter Thiel. Musk has since cut ties with the company, while Microsoft currently provides $10 billion in funding for OpenAI.
 
@@ -112,17 +89,18 @@ On July 6, OpenAI made ChatGPT’s code interpreter function available to all Ch
 Code interpreter is available in beta by taking the following steps in a ChatGPT Plus account:
 
 Click on your name
+------
 
 Select beta features from your settings
 
 Toggle on the beta features you’d like to try.
-
+------
 Criticisms of generative AI like ChatGPT
 With more and more organizations adopting generative AI, many questions arise. Will AI be able to fill jobs currently held by humans? What privacy and ethical concerns does it raise? These questions apply to both ChatGPT and its competitors, since any generative AI can perform similar tasks.
 
 Will ChatGPT result in people losing jobs?
 Whether ChatGPT will take jobs away from humans is impossible to predict. Goldman Sachs says in an April report that a quarter to a half of humans’ workloads could be automated with generative AI. The financial institution notes that doesn’t necessarily mean those jobs will disappear – instead, most will be “only partially exposed to automation” – and it may lead to up to a 7% increase in global GDP.
-
+------
 More must-read AI coverage
 ChatGPT cheat sheet: Complete guide for 2023
 Generative AI Defined: How It Works, Benefits and Dangers
@@ -143,7 +121,7 @@ Perhaps inspired by science fiction about AI taking over the earth, some high-pr
 
 Ethics questions to ask when using generative AI
 ChatGPT opens up questions about the ethics of using written content created by the algorithm. Posts created by AI should be clearly marked as such, but what about more casual communication such as emails? Business leaders should establish guidelines for when to be transparent about the use of ChatGPT or other AI at work.
-
+------
 OpenAI cautions that its products are not to be used for decisions in law enforcement or global politics. Privacy, which is perhaps a more pressing concern than global domination, led Italy to ban ChatGPT. OpenAI has since stated it wants to find a way to let ChatGPT work within the European Union’s strict privacy rules.
 
 OpenAI’s new privacy update allows users to exclude themselves from training data
@@ -170,7 +148,7 @@ While Microsoft is ahead of the pack right now in terms of providing chat functi
 
 Baidu’s Ernie
 The Chinese search engine Baidu plans to add a chatbot called Ernie. Baidu announced the upcoming change on March 16, at which point the initial showing disappointed investors.
-
+------
 DeepMind’s Sparrow
 OpenAI competes with DeepMind, an artificial intelligence research laboratory owned by Alphabet. The two organizations are significantly different in terms of their aims. DeepMind focuses more on research and has not yet come out with a public-facing chatbot. DeepMind does have Sparrow, a chatbot designed specifically to help AI communicate in a way that is “helpful, correct and harmless.” DeepMind founder Demis Hassabis told The Independent in January 2023 that DeepMind may release a private beta version of Sparrow later in 2023.
 
@@ -196,7 +174,7 @@ Overall, Noy and Zhang maintained that widespread use of ChatGPT for writing tas
 Meanwhile, AI announcements that go viral can be good or bad news for investors. Microsoft’s stock price rose after the announcement of GPT-4, while Google’s stock dropped when Bard performed badly in a demonstration.
 
 OpenAI saw visitor numbers to the ChatGPT website drop for the first time since its release in November 2022 in June 2023. According to Similarweb, worldwide unique visitors dropped 5.7% from May to June. Global desktop and mobile web traffic dropped 9.7%. ChatGPT still receives more worldwide visitors than Microsoft’s in-house AI at Bing.com. The shine may have worn off chat AI, although it’s too early to tell whether the business world will also start to cool on this trendy technology.
-
+------
 What’s next for OpenAI?
 For now, OpenAI says it isn’t training GPT-5, the likely successor to today’s model. In a talk at MIT reported on by The Verge, OpenAI CEO Sam Altman pushed back against the open letter – an earlier draft of which had stated that a 5th generation was on the way; primarily, he criticized the letter’s lack of technical specificity.
 
@@ -204,7 +182,7 @@ For now, OpenAI says it isn’t training GPT-5, the likely successor to today’
 
 He said no one should expect to see a GPT-5 rollout “for some time.”
 
-
+------
 Subscribe to the Innovation Insider Newsletter
 Catch up on the latest tech innovations that are changing the world, including IoT, 5G, the latest about phones, security, smart cities, AI, robotics, and more. Delivered Tuesdays and Fridays
 Sign up today
@@ -226,7 +204,7 @@ CHEAT SHEETS
 INNOVATION
 MICROSOFT
 EDITOR'S PICKS
-
+------
 Abstract polygonal lamp on digital background. Idea and innovation concept. 3D Rendering
 TechRepublic Premium Editorial Calendar: IT Policies, Checklists, Hiring Kits and Research for Download
 Artificial intelligence and modern computer technology image concept.
